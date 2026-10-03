@@ -144,12 +144,6 @@ The app requests **location access** (optional) to show your position and nearby
 
 ---
 
-## License
-
-This project is provided for academic and educational purposes. All rights are reserved unless otherwise stated.
-
----
-
 ## Author
 
 **Georgi Zhelyazkov** – Technical University of Sofia, Faculty of Computer Systems and Technologies, 2025
